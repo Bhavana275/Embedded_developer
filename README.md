@@ -149,7 +149,7 @@ JsonResult serialize_to_json(
 ---
 
 
-```c
+
 [
   {
     "gatewayId": "gateway_1234",
